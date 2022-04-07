@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MichaelDogan
-- 👀 I’m interested in learning HTML, CSS, JavaScript, Python, Git and Github
-- 🌱 I’m currently learning CSS, Git and Github
+- 👀 I’m interested in learning HTML, CSS, JavaScript, Python, Git and Github, R and Data Analytics
+- 🌱 I’m currently learning CSS, Git and Github as well as Data Analytics
 - 📫 How to reach me MichaelDogan@gmail.com
 
 <!---
