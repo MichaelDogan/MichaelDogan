@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MichaelDogan
 - 👀 I’m interested in leveraging my 20+ years of experience in Rail Control Systems to further explore Data Analytics
-- 🌱 I’m currently learning Python, Git and Github as well as Data Analytics
+- 🌱 I’m currently learning SQL, Python, R & RStudio, Tableau while pursuing a Data Analytics certification
 - 📫 How to reach me MichaelDogan@gmail.com
 
 <!---
