@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MichaelDogan
-- 👀 I’m interested in learning HTML, CSS, JavaScript, Python, Git and Github, R and Data Analytics
+- 👀 I’m interested in leveraging my 20+ years of experience in Rail Control Systems to further explore Data Analytics
 - 🌱 I’m currently learning Python, Git and Github as well as Data Analytics
 - 📫 How to reach me MichaelDogan@gmail.com
 
