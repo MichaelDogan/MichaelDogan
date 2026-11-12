@@ -3,7 +3,7 @@
 Rail and transit professional based in Roanoke, Virginia. I lead the federal rail and transit market at AtkinsRéalis, supporting FRA, FTA, and Amtrak work.
 
 - 🛤️ Nearly 30 years in rail safety, signaling, train control, and federal regulatory and program oversight
-- 🔬 Transit Cooperative Research Program (TCRP) panel member, including light rail automation research (A-59)
+- 🔬 Serves on two Transit Cooperative Research Program (TCRP) panels: A-59, Automation of Light Rail Transit Services, and Synthesis SA-66, Measuring and Mitigating Risk in Transit Automation Testing and Implementation
 - 🎓 BS in Computational Science and Business from Liberty University
 - 📜 PMP, plus a postgraduate certificate in High Speed and Intercity Rail Management from the Mineta Transportation Institute
 - 📚 Completing an MS in Transportation Management at San José State University (2027)
