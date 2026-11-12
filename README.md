@@ -1,9 +1,12 @@
-- 👋 Hi, I’m @MichaelDogan
-- 👀 I’m interested in leveraging my 20+ years of experience in Rail Control Systems to further explore Data Analytics
-- 🌱 I’m currently learning SQL, Python, R & RStudio, Tableau, and Kaggle while pursuing a Data Analytics certification
-- 📫 How to reach me MDoganOnline@gmail.com or at https://www.MichaelDogan.com
+# Hi, I'm Michael Dogan
 
-<!---
-MichaelDogan/MichaelDogan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Rail and transit professional based in Roanoke, Virginia. I lead the federal rail and transit market at AtkinsRéalis, supporting FRA, FTA, and Amtrak work.
+
+- Nearly 30 years in rail safety, signaling, train control, and federal regulatory and program oversight
+- PMP, plus a postgraduate certificate in High Speed and Intercity Rail Management from the Mineta Transportation Institute
+- Completing an MS in Transportation Management at San José State University (2027)
+- Interests: running LLMs at home, data and analytics, and simulation and modeling
+
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/michaeldogan/)
+
+<sub>Views and code here are my own.</sub>
